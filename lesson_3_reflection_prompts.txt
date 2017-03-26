@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you are not sure if the change is a good idea, or when you use a different approach? I am not sure about this
